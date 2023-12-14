@@ -1,7 +1,7 @@
 contact:
-  email: ''
-  phone: ''
-name: ''
+  email: 'info@catalogies.nl'
+  phone: '0123456789'
+name: 'CataLogies'
 publiccodeYmlVersion: '0.2'
 softwareOwned:
 - https://github.com/Catalogies/.github
@@ -10,4 +10,4 @@ softwareSupported:
   type: community
 softwareUsed:
 - https://github.com/Catalogies/.github
-website: ''
+website: 'www.catalogies.nl'
