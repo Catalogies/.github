@@ -1,0 +1,13 @@
+contact:
+  email: ''
+  phone: ''
+name: ''
+publiccodeYmlVersion: '0.2'
+softwareOwned:
+- https://github.com/Catalogies/.github
+softwareSupported:
+- software: https://github.com/Catalogies/.github
+  type: community
+softwareUsed:
+- https://github.com/Catalogies/.github
+website: ''
